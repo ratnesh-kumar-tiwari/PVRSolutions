@@ -1,0 +1,493 @@
+:root {
+  --e-global-color-astglobalcolor0: #db9423;
+  --e-global-color-astglobalcolor1: #ed7a00;
+  --e-global-color-astglobalcolor2: #000;
+  --e-global-color-astglobalcolor3: #1d1d23;
+  --e-global-color-astglobalcolor4: #f2f2f2;
+  --e-global-color-astglobalcolor5: #fff;
+  --e-global-color-astglobalcolor6: #f2f5f7;
+  --e-global-color-astglobalcolor7: #424242;
+  --e-global-color-astglobalcolor8: #000;
+}
+ 
+ 
+
+ body{
+
+    letter-spacing:0.8px;
+    word-spacing: 4px;
+    line-height: 28px;
+    box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+     
+ }
+
+    #navbar {
+    position: sticky !important;
+    top: 0px !important;
+    width: 100% !important;
+  animation: Slidedown  ease 1s;
+    
+  
+}
+.sticky{
+    position: sticky !important ;
+    top: 0px  !important;
+    z-index:1 !important;
+    background-color:#ffc107 !important ;
+    animation: dropup ease 1s !important;
+  
+}
+
+@keyframes dropup{
+0%{
+    opacity: 0;
+    transform: translateY(-100%);
+
+}
+100%{
+    opacity: 1;
+    transform: translateY(00%);
+}
+}
+@keyframes Slidedown {
+0%{
+    opacity: 0;
+transform: translateY(-30px);
+
+}
+100%{
+    opacity: 1;
+    transform: translateY(0px);
+ 
+}
+}
+
+ #first_section,.about_section,.team_section,#seo_section{
+  
+   background-color: #ffc107   !important;
+ }
+ .card .employee_img{
+  transition:all ease 0.5s !important;
+ }
+ .card .employee_img:hover{
+  transform: scale(1.1) !important;
+ }
+ .nav-link:after {
+
+  content      : '' !important; 
+  border-bottom: solid 5px #fff !important;
+  transform    : scaleX(0) !important;
+  transition   : transform 300ms ease-in-out !important;
+}
+
+.nav-link:hover:after {
+  transform: scaleX(1) !important;
+}
+
+.btn{
+    background-color: navy !important;
+    color:white!important;
+}
+ #info_section h1 {
+font-size:55px !important;
+animation-name: slideFromUp !important;
+animation-duration: 1.2s !important ;
+animation-timing-function: ease-in !important;
+
+
+
+}
+
+
+.col-6 #Praposal{
+background-color: #f00 !important;
+}
+.col-lg-6 #about_us,.red-button{
+    background-color: #f00 !important ;  
+    border-radius: 50px !important;
+    padding: 10px 20px !important;
+    color:white !important; 
+}
+.col-lg-6 #about_us:hover,.red-button:hover{
+    background-color:black !important ;  
+   border: 1px solid white;
+}
+.col-6 #or_option{
+    width: 40px!important;
+    height: 40px!important;
+   text-align: center !important;
+   position: relative !important;
+   top:-40px !important;
+   left:260px !important; 
+}
+.service_section .card{
+
+ transition: all ease 0.5s;
+}
+.card div a:hover{
+background-color: white !important;
+color:navy !important;
+border: 1px solid navy !important;
+}
+.seo_btn:hover{
+  background-color: white !important;
+  color:navy !important;
+  border: 1px solid navy !important;
+}
+.card-text{
+    word-spacing:3px !important;
+    letter-spacing:0.5px !important;
+    line-height: 28px!important;
+}
+.card{
+    transition: all ease 0.5s; 
+    overflow: hidden;
+}
+.card:hover{
+    box-shadow: 3px 3px 5px 5px lightgrey;
+}
+#service_btn a{
+    background-color: #f00 !important ;  
+    border-radius: 50px !important;
+    padding: 10px 20px !important;
+    color:white !important; 
+}
+#service_btn a:hover{
+    background-color:black !important ;  
+   border: 1px solid white;
+}
+
+#why_us_section h1{
+    font-size: 50px !important;
+}
+#modal-form .modal-dialog .modal-content{
+
+  width: 700px;
+}
+#modal-form .modal-dialog .modal-content .modal-body form input{
+  height: 40px !important;
+}
+.why_hire .card{
+    width:100% !important;
+    border-radius: 15px 15px 15px 70px !important;
+    padding: 2rem 0 !important;
+    margin:5px !important;
+    word-wrap: break-word !important;
+    font-weight: bold !important;
+
+}
+.principle_section .col-lg-3 .card{
+    border-radius: 40px 2px 40px 2px;
+    padding: 2rem 0 !important;
+ 
+ }
+#key_to_seo{
+  color: transparent; /* Make the text color transparent */
+  font-size: 100px !important;
+  font-weight: 600 !important;
+  background-color: #7a7a7a;
+  background-image: url(https://cdn-bdgga.nitrocdn.com/jkyKRDDMzcRNgfRlwFWIJgbDazsqWkJG/assets/images/optimized/rev-e50be52/www.rankontechnologies.com/wp-content/uploads/2023/05/text-mask-image-1.jpg);
+  background-position: 0 -100px !important;
+  background-repeat: no-repeat;
+  background-size: 100% 100% !important;
+  -webkit-background-clip: text !important;
+  background-clip: text;
+}
+.SEO_Success_card_1>.card>.row>.col-3>i {
+  color:#f94d39 !important;
+  font-size: 70px !important;
+  
+}
+.SEO_Success_card_4>.card>.row>.col-3>i {
+  color:#8ed1fc!important;
+  font-size: 70px !important;
+  
+}
+
+.SEO_Success_card_1>.card,.SEO_Success_card_2>.card,.SEO_Success_card_3>.card,.SEO_Success_card_4>.card,.SEO_Success_card_5>.card,.SEO_Success_card_6>.card{
+  background-color:#363434f6 !important;
+}
+.SEO_Success_card_2>.card>.row>.col-3>i {
+  color:#4169e1 !important;
+  font-size: 70px !important;
+  
+}
+.SEO_Success_card_3>.card>.row>.col-3>i {
+  color:#a5ff01 !important;
+  font-size: 70px !important;
+  
+}
+.SEO_Success_card_5>.card>.row>.col-3>i {
+  color:#fcb900 !important;
+  font-size: 70px !important;
+  
+}
+
+.SEO_Success_card_1>.card:hover{
+  border-left: 5px solid #f94d39  !important;
+  box-shadow: none !important;
+
+}
+.SEO_Success_card_4>.card:hover{
+  border-left: 5px solid #8ed1fc !important;
+  box-shadow: none !important;
+
+}
+.SEO_Success_card_5>.card{
+  position: relative !important;
+  top:-80px !important;
+
+}
+.SEO_Success_card_5>.card:hover{
+  border-left: 5px solid #fcb900  !important;
+  box-shadow: none !important;
+ 
+}
+.SEO_Success_card_2>.card:hover{
+  border-left: 5px solid #4169e1 !important;
+  box-shadow: none !important;
+
+}
+.SEO_Success_card_3>.card:hover{
+  border-left: 5px solid #a5ff01 !important;
+  box-shadow: none !important;
+
+}
+.SEO_Success_card_6>.card>.row>.col-3>i{
+  color: #0693e3;
+  font-size: 70px !important;
+}
+.SEO_Success_card_6>.card:hover{
+  border-left: 5px solid #0693e3 !important;
+  box-shadow: none !important;
+
+}
+.social_media_info li::before {
+content: "" !important;
+background-color: var(--e-global-color-astglobalcolor0) !important;
+height: 50px !important;
+width: 50px !important;
+border-radius: 50%;
+}
+.dropbtn {
+text-decoration: none;
+color: var(--e-global-color-astglobalcolor2);
+font-weight:bold;
+font-size: 16px;
+
+
+ 
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+ 
+  display: inline-block;
+  
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 220px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+
+
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color:var(--e-global-color-astglobalcolor1);
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color:  #ddd;}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {display: block;
+   z-index:1;
+  animation-name: slideUpMenu !important;
+  animation-duration: 0.5s !important ;
+  animation-timing-function: ease-in !important;
+}
+
+.progress-bar{
+
+  animation-name: fillup !important;
+  animation-duration: 0.8s !important ;
+  animation-timing-function: ease-in !important;
+  background-color: var(--e-global-color-astglobalcolor3);
+
+}
+@keyframes fillup {
+  0% {
+  width:0%;
+
+  }
+  100% {
+   width:100% !important;
+  }
+  
+}
+@keyframes slideUpMenu {
+  0% {
+    opacity: 0;
+    transform: translateY(50px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideDown {
+    0% {
+      opacity: 0;
+      transform: translateY(-100%);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  @keyframes slideLeft {
+    0% {
+      opacity: 0;
+   
+    }
+    100% {
+      opacity: 1;
+     
+    }
+  }
+ 
+  
+  .animated {
+    animation: slideDown 2s ease-in-out;
+
+  }
+  .animated_left{
+    animation: slideLeft 2s ease-in-out;
+   
+  }
+  
+  
+  
+
+@keyframes slideFromUp {
+    0% {
+        opacity: 0;
+        transform: translate3d(0,-100%,0);
+    }
+    
+    100% {
+        opacity: 1;
+        transform: none;
+    }
+}
+@media only screen and (max-width: 767px) {
+    #info_section h1 {
+    
+        font-size:38px !important;
+        animation-name: slideFromUp !important;
+        animation-duration: 1.2s !important ;
+        }
+        .container{
+            width:100% !important;
+           
+        }
+        .col-6 #or_option{
+            display: none !important;
+        }
+        .card{
+            width: 100% !important;
+          
+            transition: all ease 0.5s;
+            margin:5px !important;
+           }
+           .why_hire .card{
+            width:100% !important;
+            border-radius: 15px 15px 15px 70px !important;
+            padding: 2rem 0 !important;
+        
+        }
+        #key_to_seo{
+          font-size:50px !important;
+        
+          background-position:0 -70px !important;
+          color: transparent; /* Make the text color transparent */
+       
+          font-weight: 600 !important;
+          background-color: #7a7a7a;
+          background-image: url(https://cdn-bdgga.nitrocdn.com/jkyKRDDMzcRNgfRlwFWIJgbDazsqWkJG/assets/images/optimized/rev-e50be52/www.rankontechnologies.com/wp-content/uploads/2023/05/text-mask-image-1.jpg);
+          
+          background-repeat: no-repeat;
+          background-size: 100% 100% !important;
+          -webkit-background-clip: text !important;
+          background-clip: text;
+        
+
+        }
+        .SEO_Success_card_5>.card{
+          position: relative !important;
+         top:0px !important
+        
+        }
+        .dropbtn{
+          padding-left: 0px;
+    
+       
+        }
+      
+        .dropdown{
+      
+          position:relative !important;
+          top:00px!important;
+        }
+        #modal-form .modal-dialog .modal-content{
+                  width: 100% !important;
+        
+        }
+
+  }
+  @media only screen and (min-width:767px) and (max-width:1000px){
+   .container{
+       width:100% !important;
+   }
+
+.why_hire .card{
+    width:100% !important;
+    border-radius: 15px 15px 15px 70px !important;
+    padding: 2rem 0 !important;
+
+}
+.dropbtn{
+  padding-left: 0px;
+}
+.col-6 #or_option{
+  left: 330px !important;
+}
+#modal-form .modal-dialog .modal-content{
+  width: 100% !important;
+
+}
+.SEO_Success_card_5>.card{
+          position: relative !important;
+         top:0px !important
+        
+        }
+
+  }
+    @media only screen and (width:1024px){
+        .col-6 #or_option{
+  left: 210px !important;
+}
+    }
+ 
