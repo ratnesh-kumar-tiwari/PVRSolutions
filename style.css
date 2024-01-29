@@ -66,6 +66,7 @@ transform: translateY(-30px);
  #first_section,.about_section,.team_section,#seo_section{
   
    background-color: #ffc107   !important;
+   background-color:blue !important;
  }
  .card .employee_img{
   transition:all ease 0.5s !important;
