@@ -101,7 +101,7 @@ animation-timing-function: ease-in !important;
 }
 
 
-.col-6 #Praposal{
+.col-sm-6 #Praposal{
 background-color: #f00 !important;
 }
 .col-lg-6 #about_us,.red-button{
@@ -114,7 +114,7 @@ background-color: #f00 !important;
     background-color:black !important ;  
    border: 1px solid white;
 }
-.col-6 #or_option{
+.col-sm-6 #or_option{
     width: 40px!important;
     height: 40px!important;
    text-align: center !important;
