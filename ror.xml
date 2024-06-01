@@ -1,4 +1,4 @@
-<?xml version="1.1" encoding="UTF-8"?>
+<rss xmlns:ror="http://rorweb.com/0.1/" version="2.0">
 <rss xmlns:ror="http://rorweb.com/1.1/" version="2.1">
 <channel>
 <title>ROR Sitemap for https://ratnesh-kumar-tiwari.github.io/PVRSolutions/index.html</title>
@@ -31,7 +31,7 @@
 <item>
 <link>https://ratnesh-kumar-tiwari.github.io/PVRSolutions/team.html</link>
 <title>Our Team PVR Solutions<</title>
-<description>we are more than just a team we are a family of passionate individuals who thrive on turning ideas into digital masterpieces.We are a group of innovative experienced and proficient teams</description>
+<description>we are more than just a team we are a family of passionate individuals who thrive on turning ideas into digital masterpieces We are a group of innovative experienced and proficient teams</description>
 <ror:updatePeriod/>
 <ror:sortOrder>1</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
