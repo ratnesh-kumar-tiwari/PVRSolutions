@@ -12,7 +12,7 @@
 <ror:sortOrder>0</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
-  <item>
+<item>
 <link>https://ratnesh-kumar-tiwari.github.io/PVRSolutions/web_design.html</link>
 <title>Web Design and Development</title>
 <description>PVR Solutions one of the finest Web Development Companies In India renowned for using the latest online techniques and the most sophisticated tools that help your business get a digital edge</description>
@@ -20,7 +20,7 @@
 <ror:sortOrder>0</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
-  <item>
+<item>
 <link>https://ratnesh-kumar-tiwari.github.io/PVRSolutions/web_Developement.html</link>
 <title>Web Development Services PVR Solutions</title>
 <description>PVR Solutions one of the finest Web Development Companies In India renowned for using the latest online techniques and the most sophisticated tools that help your business get a digital edge</description>
@@ -28,7 +28,7 @@
 <ror:sortOrder>0</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
-  <item>
+<item>
 <link>https://ratnesh-kumar-tiwari.github.io/PVRSolutions/team.html</link>
 <title>Our Team PVR Solutions<</title>
 <description>we’re more than just a team—we’re a family of passionate individuals who thrive on turning ideas into digital masterpieces.We are a group of innovative, experienced, and proficient teams</description>
@@ -36,6 +36,5 @@
 <ror:sortOrder>0</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
- 
-</channel>
+ </channel>
 </rss>
