@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:ror="http://rorweb.com/0.1/" version="2.0">
+<?xml version="1.1" encoding="UTF-8"?>
+<rss xmlns:ror="http://rorweb.com/1.1/" version="2.1">
 <channel>
 <title>ROR Sitemap for https://ratnesh-kumar-tiwari.github.io/PVRSolutions/index.html</title>
 <description>ROR Sitemap for https://ratnesh-kumar-tiwari.github.io/PVRSolutions/index.html</description>
@@ -17,7 +17,7 @@
 <title>Web Design and Development</title>
 <description>PVR Solutions one of the finest Web Development Companies In India renowned for using the latest online techniques and the most sophisticated tools that help your business get a digital edge</description>
 <ror:updatePeriod/>
-<ror:sortOrder>0</ror:sortOrder>
+<ror:sortOrder>1</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -25,7 +25,7 @@
 <title>Web Development Services PVR Solutions</title>
 <description>PVR Solutions one of the finest Web Development Companies In India renowned for using the latest online techniques and the most sophisticated tools that help your business get a digital edge</description>
 <ror:updatePeriod/>
-<ror:sortOrder>0</ror:sortOrder>
+<ror:sortOrder>1</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -33,7 +33,7 @@
 <title>Our Team PVR Solutions<</title>
 <description>we are more than just a team we are a family of passionate individuals who thrive on turning ideas into digital masterpieces.We are a group of innovative, experienced, and proficient teams</description>
 <ror:updatePeriod/>
-<ror:sortOrder>0</ror:sortOrder>
+<ror:sortOrder>1</ror:sortOrder>
 <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
  </channel>
